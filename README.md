@@ -10,11 +10,11 @@ By [@alesanchezr](https://twitter.com/alesanchezr) and [other contributors](http
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/README.es.md) :es:*
 <!-- endhide -->
 
-These exercises are the ideal first step for anyone trying to learn Python. We start with the most simple challenge, like printing a message on the terminal and slowly increase step by step.
+These exercises are the perfect first step for anyone trying to learn Python. We start with the most simple challenge, like printing a message on the terminal and slowly increase step by step.
 
 This particular series is for Python beginners. You will learn:
 
-1. The `print` function.
+1. The `print()` function.
 
 2. Data-Types. 
 
